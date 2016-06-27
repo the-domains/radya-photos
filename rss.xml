@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Radya Photos]]></title>
         <description><![CDATA[Radya Photos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/radya-photos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 16:12:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 16:18:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/radya-photos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1123e8df-5eee-4ed9-84ba-db0a909b3858.jpg">]]></description>
-            <link>undefinedladozhskie-shhery/index.html</link>
+            <title><![CDATA[Ладожские шхеры]]></title>
+            <description><![CDATA[<article><h1>Ладожские шхеры</h1><p>В июне мы създили на Ладожские шхеры блаблаблаблабла В июне мы създили на Ладожские шхеры блаблаблаблабла</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2ac1548-3182-440d-92d4-e9a42b2e1db5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/radya-photos/ladozhskie-shhery/index.html</link>
             <guid isPermaLink="false">8ca5f1b9-a396-4c31-9155-87fa3d484bdf</guid>
-            <pubDate>Mon, 27 Jun 2016 16:11:54 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 16:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
