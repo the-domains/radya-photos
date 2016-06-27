@@ -7,14 +7,14 @@ keywords: []
 description: >-
   Как видите. Грид всё еще плох. Интересно, что мне перестали приходить письма
   от них, когда я заполнил анкету бета-тестера
-datePublished: '2016-06-27T16:40:20.000Z'
-dateModified: '2016-06-27T16:40:01.442Z'
+datePublished: '2016-06-27T16:41:17.486Z'
+dateModified: '2016-06-27T16:40:45.344Z'
 title: Очередная попытка обуздать the grid
 author: []
+sourcePath: _posts/2016-06-27-ocherednaya-popytka-obuzdat-the-grid.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-27-ocherednaya-popytka-obuzdat-the-grid.md
 url: ocherednaya-popytka-obuzdat-the-grid/index.html
 _type: Article
 
