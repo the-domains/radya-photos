@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T08:44:29.659Z'
+datePublished: '2016-08-31T08:54:36.788Z'
 sourcePath: _posts/2016-06-27-ocherednaya-popytka-obuzdat-the-grid.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T08:44:29.173Z'
+dateModified: '2016-08-31T08:54:36.352Z'
 title: Yet another try to use the grid
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   web
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: ocherednaya-popytka-obuzdat-the-grid/index.html
 _type: Article
 
