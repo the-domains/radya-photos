@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Результаты нажатия на кнопку]]></title>
-        <description><![CDATA[Результаты нажатия на кнопку]]></description>
+        <title><![CDATA[Just push the button they said]]></title>
+        <description><![CDATA[Just push the button they said]]></description>
         <link>https://thegrid.ai/photoradya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 08:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 08:50:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photoradya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey ho]]></title>
+            <description><![CDATA[<article><h1>Hey ho</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2d0431-1389-4785-9934-3539e8ad7e12.jpg"></article>]]></description>
+            <link>http://radlikes.tumblr.com/post/131039042028/daily-inspiration-2202</link>
+            <guid isPermaLink="false">36eb3955-40ef-4338-8257-5fc74c136869</guid>
+            <pubDate>Wed, 31 Aug 2016 08:47:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yet another try to use the grid]]></title>
             <description><![CDATA[<article><h1>Yet another try to use the grid</h1><p>As you can see, thegrid is still something funky and unusable tool for making web</p></article>]]></description>
