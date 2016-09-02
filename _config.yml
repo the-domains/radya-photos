@@ -1,7 +1,18 @@
+layout_spectrum: 0.07039538840763271
+typography_spectrum: 0.2395672060083598
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.34005668107420206
+  lightness: 0.025232608895748854
+  saturation: 0.8602456734515727
+  rhythmicContrast: 0.21979272831231356
 name: Radya Photos
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
 title: Результаты нажатия на кнопку
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#636e5f'
-    - '#bfb3a4'
-    - '#760208'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0
 purpose: []
