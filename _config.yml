@@ -19,7 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Radya Photos
+author:
+  name: Radya
+name: Radya
 cta:
   domain: null
   bucket: null
